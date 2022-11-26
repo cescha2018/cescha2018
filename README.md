@@ -1,8 +1,8 @@
 - 👋 Hola, mi nombre es César. Soy ingeniero Electrónico y me apasiona la tecnología.
 - 👀 Siempre me ha gustado programar, aprendí con C++ pero estoy profundamente enamorado de Python.
-- 🌱 Actualmente, estoy aprendiendo este lenguaje de programación y puedo decir que es un lenguaje muy potente.
+- 🌱 Actualmente, estoy aprendiendo este lenguaje de programación y puedo decir que es un lenguaje elegante, limpio y muy poderoso.
 - 💞️ Estoy desarrollando con un equipo de jovenes y talentosos ingenieros un proyecto que esperamos publicar de un momento a otro.
-- 📫 Puedes pasar a saludarme aquí en mi cuenta de Github o enviarme un correo a cescha.consultor@gmail.com :)
+- 📫 Te invito a mejorar los códigos que suba a mi cuenta de Github o también enviarme un correo a cesar@interfazes.com para hablar de negocios
 
 <!---
 cescha2018/cescha2018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
