@@ -1,7 +1,7 @@
-- 👋 Hola, mi nombre es César. Soy ingeniero Electrónico y me apasiona la tecnología.
-- 👀 Siempre me ha gustado programar, aprendí con C++ pero estoy profundamente enamorado de Python.
-- 🌱 Actualmente, estoy aprendiendo este lenguaje de programación y puedo decir que es un lenguaje elegante, limpio y muy poderoso.
-- 💞️ Estoy desarrollando junto con un talentoso equipo de jovenes ingenieros un proyecto que esperamos publicar de un momento a otro y hacer negocios ¡queremos ser disruptores!
+- 👋 Hola, mi nombre es César. Soy ingeniero Electrónico y CEO de la empresa Interfazes, el lugar donde estamos trabajando en el desarrollo de interfaces de voz usando inteligencia artificial.
+- 👀 Siempre me ha gustado programar, el primer lenguaje de programación que aprendí fue C++ pero tras aprender Python quede impresionado del potencial que tiene este relativo nuevo idioma de programación.
+- 🌱 De igual manera, estamos investigando y desarrollando otras tecnologías como Sistemas Embebidos, Visión por Computadora y realidad virtual. 
+- 💞️ Junto con un talentoso equipo de ingenieros un proyecto esperamos poner a disposición del mercado nuestra propuesta tecnológica ¡queremos aportar y ser disruptores de nuevas ideas!
 - 📫 Te invito a mejorar los códigos que suba a mi cuenta de Github o también enviarme un correo a cesar@interfazes.com para hablar de negocios
 
 <!---
