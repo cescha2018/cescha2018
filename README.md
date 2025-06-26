@@ -92,8 +92,7 @@
 
 <div align='center'>
 
-✨
-## <b> Mi objetivo es crear aplicaciones, servicios y productos <p> para la vida común y empresarial impulsados<p> con tecnología de inteligencia artificial </b>
+## ✨ <b> Mi objetivo es crear aplicaciones, servicios y productos <p> impulsados con tecnología de inteligencia artificial </b>
 
 </div>
 
