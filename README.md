@@ -5,11 +5,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Ingeniero+Electrónico;y+estoy+construyendo+nuevas+tecnologías,;desarrollando+productos+y+servicios;basados+en+inteligencia+artificial;para+ofrecer+innovación;al+mercado+empresarial+y+consumidor."></a>
 </p>
 
-
-<br>
-
-
-
 	
 ## **😎 Acerca de mi**
 <br>
@@ -35,37 +30,30 @@
 
     [![My Skills](https://skillicons.dev/icons?i=cpp,py,a&perline=3)](https://skillicons.dev)
 
-<br>   
 
 - **Inteligencia Artificial**:
 
    [![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch&perline=3)](https://skillicons.dev)
 
-<br>
     
 - **Desarrollo Web Frontend**:
 
    [![My Skills](https://skillicons.dev/icons?i=html,css,javascript&perline=3)](https://skillicons.dev)
 
-<br>
-
 - **Desarrollo Web Backend**:
 
    [![My Skills](https://skillicons.dev/icons?i=flask,django&perline=3)](https://skillicons.dev)
 
-<br>
 
 - **Bases de Datos**:
 
    [![My Skills](https://skillicons.dev/icons?i=mongodb,firebase&perline=3)](https://skillicons.dev)
 
-<br>
 
 - **Plataformas en la Nube**:
 
     [![My Skills](https://skillicons.dev/icons?i=github,gcp,a&perline=3)](https://skillicons.dev)
     
-<br>
 
 - **Software y otras herramientas**:
 
@@ -74,15 +62,12 @@
 </p>
 
 <br>
-<br>
 
 -----
 
 <br>
-<br>
 
 ## <b> 👽 Hagamos contacto 👽</b>
-<br>
 <div align='left'>
 
 <ul>
@@ -93,16 +78,11 @@
 </a>
 </li>
 
-<br>
-
 <li>
 <a href="https://x.com/ingcesarisaac" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  ingcesarisaac-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
-
-<br>
-
 
 	
 </ul>
@@ -112,14 +92,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
-<br>
 
 <div align='center'>
 
 ## <b> ✨ Mi objetivo es crear aplicaciones, servicios<p> y productos para la vida común y empresarial.</b>
 
 </div>
-<br>
+
 <br>
 
 ---
@@ -128,4 +107,4 @@
 
 Visita nuestro [blog](https://www.interfazes.mx)
 
-Ultima edición el 25 de Junio de 2025
+Ultima edición el 26 de Junio de 2025
