@@ -1,5 +1,4 @@
-![Logo](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red](https://media.canva.com/v2/image-resize/format:JPG/height:310/quality:92/uri:ifs%3A%2F%2FM%2Fad0b95b3-4295-4522-a061-8a98e69a7e93/watermark:F/width:550?csig=AAAAAAAAAAAAAAAAAAAAADAhQo6uFEdyMzks4xh9wD0eFjQXkf2HbSQInjKsok4B&exp=1750922506&osig=AAAAAAAAAAAAAAAAAAAAAAVr0KqiBbbHSmf2SvLIN5EwWN-wRChggIAoc46wi78L&signer=media-rpc&x-canva-quality=thumbnail_large)
-
+<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
 - 👋 Hola, mi nombre es César. Soy ingeniero Electrónico y fundador de la empresa Interfazes, el lugar donde estamos trabajando en el desarrollo de interfaces de voz usando inteligencia artificial.
 - 👀 Siempre me ha gustado programar pero nunca antes lo habia hecho de forma profesional para crear aplicaciones comerciales y de investigación.
 - 🌱 Aprendí C++ en mi formación academica y fui autodidacto al aprender a programar en Python, sigo impresionado del potencial que tiene este lenguaje de programación.
