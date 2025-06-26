@@ -81,7 +81,7 @@
 <br>
 <br>
 
-## <b> 👽 Compartamos nuestros datos 👽</b>
+## <b> 👽 Hagamos contacto 👽</b>
 <br>
 <div align='left'>
 
