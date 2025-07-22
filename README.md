@@ -9,10 +9,10 @@
 ## **😎 Acerca de mi**
 <br>
 
-- Soy ingeniero con especialidad en Electrónica, egresado del Instituto Politécnico Nacional.
-- Me encanta aprender nuevas tecnologías y buscar aplicaciones que resuelvan problemas actuales y futuros.
-- Soy fundador de la empresa [Interfazes](https://www.interfazes.com), el lugar donde estamos desarrollando aplicaciones especificas con interacción de interfaces por voz con modelos, herramientas y servicios de de inteligencia artificial.
-- También hago investigación en áreas de Sistemas Embebidos y Visión por Computadora, temas que profundamente me apasionan además de la I.A.
+- Soy ingeniero con especialidad en Electrónica, egresado del Instituto Politécnico Nacional en México.
+- Me encanta aprender nuevas tecnologías y buscar aplicaciones que resuelvan problemas actuales y futuros tanto para empresas como para la sociedad.
+- Soy fundador de la empresa [Interfazes](https://www.interfazes.com), el lugar donde estamos desarrollando aplicaciones de software y hardware con la diferencia de que es por medio de la voz en que queremos controlar productos, herramientas y servicios, todo con ayuda de la inteligencia artificial.
+- También hago investigación en áreas de Sistemas Embebidos y Visión por Computadora, temas que profundamente me apasionan.
 - Estoy de tiempo completo en el desarrollo de nuestra tecnología por voz para hacerla disponible para cualquier persona y empresa así como del desarrollo de productos y servicios electrónicos basados en sistemas embebidos con inteligencia artificial. 
 - Sigo aprendiendo, mejorando mis habilidades de programación, particularmente en C++, Python (o micropython si estamos hablando de electrónica embebida) y desarrollo web.
 
@@ -102,4 +102,4 @@
 
 Visita nuestro [blog](https://www.interfazes.mx) y conoce mas acerca de nuestro proyecto de interfaces por voz.
 
-Ultima edición el 26 de Junio de 2025
+Ultima edición el 22 de Julio de 2025
